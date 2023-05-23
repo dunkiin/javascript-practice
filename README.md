@@ -1,2 +1,3 @@
-# javascript-practice
-Multiple practices for javascript, also html &amp; css 
+## javascript-practice
+
+**Multiple practices for javascript, also html &amp; css**
